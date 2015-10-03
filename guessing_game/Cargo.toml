@@ -1,0 +1,8 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+authors = ["Estevan Adrian Pequeno <steven.pequeno@rackspace.com>"]
+
+[dependencies]
+
+rand="0.3.0"
