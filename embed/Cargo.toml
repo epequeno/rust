@@ -1,0 +1,8 @@
+[package]
+name = "embed"
+version = "0.1.0"
+authors = ["Estevan Adrian Pequeno <steven.pequeno@rackspace.com>"]
+
+[lib]
+name = "embed"
+crate-type = ["dylib"]
